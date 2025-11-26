@@ -1,59 +1,60 @@
 <div align="center">
 
-# 👋 Hi, I'm <span style="color:black">Saad Masood</span>  
+# **Hi, I'm Saad Masood**
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Saad+Masood" alt="Saad Masood" />
-</p>
+</div>
+<div align="center">
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=400&lines=Junior+AI+Engineer" alt="Junior AI Engineer" />
+  </p>
+</div>
 
-### <span><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=400&lines=Junior+AI+Engineer" alt="Junior AI Engineer" /></span>
 
 ---
 
 ### 🚀 About Me
+I am a **Junior AI Engineer** at a software house, building **production-ready AI solutions**.  
 
-I am a **Junior AI Engineer** working at a software house, creating **production-ready AI solutions** that solve real-world problems.  
-
- 💡 **Expertise:** LLMs, GenAI & RAG Systems  
- ⚡ **Automation:** Agentic AI workflows with LangChain  
- 🧠 **Technical Strengths:** ML/DL, NLP, Computer Vision, Model Fine-tuning  
- 🎯 **Goal:** Build **scalable and practical AI applications**  
+💡 **Expertise:** LLMs, GenAI & RAG Systems  
+⚡ **Automation:** Agentic AI workflows with LangChain  
+🧠 **Technical Strengths:** ML/DL, NLP, Computer Vision, Model Fine-tuning  
+🎯 **Goal:** Build **scalable and practical AI applications**
 
 </div>
 
-
-
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Core Skills
+
+<div align="center">
 
 ### 🤖 AI & Machine Learning
-- Python  
-- TensorFlow  
-- PyTorch  
-- Scikit-learn  
-- Hugging Face  
-- Keras  
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD700)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FF4500)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=FF6347)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=00BFFF)
+![Keras](https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=keras&logoColor=FF6347)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=FFD700)
 
 ### ⚡ Frameworks & Tools
-- LangChain  
-- FastAPI  
-- Flask  
-- OpenCV  
-- Swagger  
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=00BFFF)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00FFFF)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=FFD700)
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=00BFFF)
+![PEFT](https://img.shields.io/badge/PEFT-000000?style=for-the-badge&logo=python&logoColor=FF6347)
+![Swagger](https://img.shields.io/badge/Swagger-000000?style=for-the-badge&logo=swagger&logoColor=FF4500)
 
-### 💾 Databases & Data
-- MySQL  
-- Vector Databases  
-- Pandas  
-- NumPy  
+### 💾 Databases & Data Tools
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00BFFF)
+![Vector DBs](https://img.shields.io/badge/Vector_DBs-000000?style=for-the-badge&logo=databricks&logoColor=FF6347)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=FFD700)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00BFFF)
+![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=FFD700)
 
-### 🔧 Development Tools
-- Git  
-- GitHub  
-- VS Code  
-- Jupyter  
-- Google Colab  
+### ⚙️ Specializations
+API Development | Vector Databases | Model Optimization | Agentic AI | RAG Systems
+
+</div>
 
 ---
 
@@ -71,17 +72,9 @@ I am a **Junior AI Engineer** working at a software house, creating **production
 
 ---
 
-## 🏆 Core Competencies
-
-**AI Engineering:** LLMs | GenAI | RAG Systems | Agentic AI  
-**Deep Learning & NLP:** CNN | Computer Vision | Fine-tuning | Transformers  
-**Frameworks & Tools:** LangChain | FastAPI | Flask | PEFT | Hugging Face  
-**Specializations:** API Development | Vector Databases | Model Optimization  
-**Programming & ML Tools:** Python | PyTorch | TensorFlow | scikit-learn | n8n  
-
----
-
 ## 🌟 Key Strengths
+
+<div align="center">
 
 | Strength | Description |
 |----------|-------------|
@@ -89,6 +82,8 @@ I am a **Junior AI Engineer** working at a software house, creating **production
 | 🚀 Fast Learner | Quickly adapts to new technologies, frameworks, and workflows |
 | 💡 Innovation Driven | Exploring cutting-edge AI techniques to improve real-world applications |
 | 🤝 Team Player | Collaborates efficiently to deliver high-quality AI solutions |
+
+</div>
 
 ---
 
@@ -108,13 +103,16 @@ I am a **Junior AI Engineer** working at a software house, creating **production
 
 ## 📬 Contact Me
 
-- **Email:** saadchahal000@gmail.com   
-- **LinkedIn:** [linkedin.com/in/saad-masood-2b22262aa](https://www.linkedin.com/in/saad-masood-2b22262aa)  
-- **Instagram:** [@malik_saad_000](https://www.instagram.com/malik_saad_000)  
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-saadchahal000@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saadchahal000@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saad_Masood-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-masood-2b22262aa)  
+[![Instagram](https://img.shields.io/badge/Instagram-@malik__saad__000-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]
+
+</div>
 
 ---
 
 ⭐ **Open to exciting AI projects, collaborations, and opportunities!** ⭐  
 
 <sub>Made with 💙 by Saad Masood</sub>
-
