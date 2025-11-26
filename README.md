@@ -1,21 +1,22 @@
 <div align="center">
 
-# 👋 Hi, I'm Saad Masood  
-### Junior AI Engineer  
+# 👋 Hi, I'm **Saad Masood**  
+### <span style="color:#00D9FF">Junior AI Engineer</span>  
 **Building Intelligent Solutions • LLMs • GenAI • RAG Systems • Python • FastAPI • LangChain**
 
 ---
 
 ### 🚀 About Me
 
-**Junior AI Engineer** at a software house, building production-ready AI systems that solve real-world problems.
+I am a **Junior AI Engineer** working at a software house, creating **production-ready AI solutions** that solve real-world problems.  
 
-- 💡 Specializing in **LLMs, GenAI & RAG Systems**  
-- ⚡ Skilled in **agentic automation** with LangChain  
-- 🧠 Strong in **ML/DL, NLP, and system design**  
-- 🎯 Passionate about scalable, practical AI solutions  
+- 💡 **Expertise:** LLMs, GenAI & RAG Systems  
+- ⚡ **Automation:** Agentic AI workflows with LangChain  
+- 🧠 **Technical Strengths:** ML/DL, NLP, Computer Vision, Model Fine-tuning  
+- 🎯 **Goal:** Build **scalable and practical AI applications**  
 
 </div>
+
 
 ---
 
@@ -67,51 +68,48 @@
 
 ## 🏆 Core Competencies
 
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Saad Masood"
-        self.role = "Junior AI Engineer"
-        self.location = "Pakistan"
-        
-    def get_skills(self):
-        return {
-            "ai_engineering": ["LLMs", "GenAI", "RAG Systems", "Agentic AI"],
-            "deep_learning": ["CNN", "NLP", "Computer Vision", "Fine-tuning"],
-            "frameworks": ["LangChain", "FastAPI", "Flask", "Transformers", "PEFT"],
-            "specializations": ["API Development", "Vector Databases", "Model Optimization"],
-            "tools": ["Python", "PyTorch", "TensorFlow", "Hugging Face", "n8n"]
-        }
-    
-    def get_focus(self):
-        return "Building Scalable AI Solutions for Real-World Applications"
-🌟 What I Bring to the Table
-<div align="center">
-Strength	Description
-🎯 Problem Solver	Turning complex AI challenges into simple, effective solutions
-🚀 Fast Learner	Quickly adapts to new tech and frameworks
-💡 Innovation Driven	Exploring cutting-edge AI techniques
-🤝 Team Player	Collaborates effectively to build impactful systems
+**AI Engineering:** LLMs | GenAI | RAG Systems | Agentic AI  
+**Deep Learning & NLP:** CNN | Computer Vision | Fine-tuning | Transformers  
+**Frameworks & Tools:** LangChain | FastAPI | Flask | PEFT | Hugging Face  
+**Specializations:** API Development | Vector Databases | Model Optimization  
+**Programming & ML Tools:** Python | PyTorch | TensorFlow | scikit-learn | n8n  
 
-</div>
-💭 Philosophy
-"The best way to predict the future is to build it with AI."
+---
 
-🎯 Currently Working On
-🔹 Advanced RAG Systems with Multi-Modal LLMs
-🔹 Agentic AI Workflows using LangChain
-🔹 Production-Ready AI API Development
+## 🌟 Key Strengths
 
-📬 Contact Me
-Email: saadchahal000@gmail.com
+| Strength | Description |
+|----------|-------------|
+| 🎯 Problem Solver | Transforming complex AI challenges into simple, practical solutions |
+| 🚀 Fast Learner | Quickly adapts to new technologies, frameworks, and workflows |
+| 💡 Innovation Driven | Exploring cutting-edge AI techniques to improve real-world applications |
+| 🤝 Team Player | Collaborates efficiently to deliver high-quality AI solutions |
 
-Phone / WhatsApp: [Your Phone Number]
+---
 
-LinkedIn: linkedin.com/in/saad-masood-2b22262aa
+## 💭 Philosophy
 
-Instagram: @malik_saad_000
+> *"The best way to predict the future is to build it with AI."*
 
-⭐ Open to exciting AI projects, collaborations, and opportunities! ⭐
+---
 
-<br>
+## 🎯 Currently Working On
+
+- Advanced RAG Systems with Multi-Modal LLMs  
+- Agentic AI Workflows using LangChain  
+- Production-Ready AI API Development  
+
+---
+
+## 📬 Contact Me
+
+- **Email:** saadchahal000@gmail.com   
+- **LinkedIn:** [linkedin.com/in/saad-masood-2b22262aa](https://www.linkedin.com/in/saad-masood-2b22262aa)  
+- **Instagram:** [@malik_saad_000](https://www.instagram.com/malik_saad_000)  
+
+---
+
+⭐ **Open to exciting AI projects, collaborations, and opportunities!** ⭐  
+
 <sub>Made with 💙 by Saad Masood</sub>
+
