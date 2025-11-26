@@ -1,8 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm **Saad Masood**  
-### <span style="color:#00D9FF">Junior AI Engineer</span>  
-**Building Intelligent Solutions • LLMs • GenAI • RAG Systems • Python • FastAPI • LangChain**
+# 👋 Hi, I'm <span style="color:black">Saad Masood</span>  
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Saad+Masood" alt="Saad Masood" />
+</p>
+
+### <span><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=400&lines=Junior+AI+Engineer" alt="Junior AI Engineer" /></span>
 
 ---
 
@@ -16,6 +20,7 @@ I am a **Junior AI Engineer** working at a software house, creating **production
 - 🎯 **Goal:** Build **scalable and practical AI applications**  
 
 </div>
+
 
 
 ---
