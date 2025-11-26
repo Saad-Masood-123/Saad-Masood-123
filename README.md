@@ -14,10 +14,10 @@
 
 I am a **Junior AI Engineer** working at a software house, creating **production-ready AI solutions** that solve real-world problems.  
 
-- 💡 **Expertise:** LLMs, GenAI & RAG Systems  
-- ⚡ **Automation:** Agentic AI workflows with LangChain  
-- 🧠 **Technical Strengths:** ML/DL, NLP, Computer Vision, Model Fine-tuning  
-- 🎯 **Goal:** Build **scalable and practical AI applications**  
+ 💡 **Expertise:** LLMs, GenAI & RAG Systems  
+ ⚡ **Automation:** Agentic AI workflows with LangChain  
+ 🧠 **Technical Strengths:** ML/DL, NLP, Computer Vision, Model Fine-tuning  
+ 🎯 **Goal:** Build **scalable and practical AI applications**  
 
 </div>
 
